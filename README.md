@@ -14,8 +14,7 @@ A empresa informa que as fazendas urbanas construídas por ela estão de acordo 
 
 ### TÓPICOS 🎯
 
-➺ [Figma](https://www.figma.com/proto/O7jTNQE69g2xxBiJ3T0HTA/Untitled?type=design&node-id=1-2&t=xrpHJq7iFGU1v4pV-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2https://www.figma.com/proto/O7jTNQE69g2xxBiJ3T0HTA/Untitled?type=design&node-id=1-2&t=xrpHJq7iFGU1v4pV-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
-
+➺ [Figma](https://www.figma.com/proto/O7jTNQE69g2xxBiJ3T0HTA/Untitled?type=design&node-id=1-2&t=xrpHJq7iFGU1v4pV-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2https://www.figma.com/proto/O7jTNQE69g2xxBiJ3T0HTA/Untitled?type=design&node-id=1-2&t=xrpHJq7iFGU1v4pV-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)\
 ➺ [Sprint Backlog](https://github.com/users/VictorHT2/projects/8/views/1)\
 ➺ [BackLog](https://github.com/users/VictorHT2/projects/7/views/4)
 
